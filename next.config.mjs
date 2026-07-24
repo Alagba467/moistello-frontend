@@ -49,4 +49,4 @@ export default withSentryConfig(nextConfig, {
   silent: true,
   hideSourceMaps: true,
   widenClientFileUpload: true,
-})
+});
